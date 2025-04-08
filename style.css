@@ -1,0 +1,232 @@
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: "Rubik";
+    box-sizing: border-box;
+}
+
+.container
+{
+    display: grid;
+    grid-auto-flow: column;
+}
+
+
+#nameAndTitle{
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-decoration: underline;
+    text-decoration-style: solid;
+    text-decoration-thickness: 0%;
+}
+
+#navbar{
+    text-align: right;
+    margin-top: 10px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+#navbar li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 15px 0px 15px 100px;
+}
+
+#menu{
+    margin-top: 100px;
+
+}
+
+#imgMenu img{
+    max-width: 500px;
+    max-height: 500px;
+    border-radius: 40px;
+}
+
+#textMenu{
+    text-align: right;
+    margin-block: auto;
+    padding-bottom: 15px;
+}
+
+#textMenu h1{
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: right;
+}
+
+#textMenu p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 0%;
+}
+
+#textMenu a{
+    
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    background-color: blue;
+    text-decoration: none;
+    color: white;
+    padding: 12px;
+    border-radius: 40px;
+}
+
+#brands{
+    margin-top: 100px;
+}
+
+#textBrands{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.imgBrands{
+    margin: auto;
+    margin-right: 0;
+}
+
+#contact{
+    margin-top: 100px;
+}
+
+#contactForm{
+    margin-block: auto;
+}
+
+#contactForm h2{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #F75C4E;
+}
+
+#contactForm h1{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+#contactForm p{
+ 
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 0%;
+}
+
+#contactForm input{
+    width: 350px;
+    height: 25px;
+    padding: 10px;
+    border-radius: 50px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    border: none;
+    background: #e4e6ea;
+
+}
+
+#contactForm button{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 15px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 50px;
+    color: white;
+    background-color: blue;
+    border: none;
+}
+
+#contactImg{
+    text-align: right;
+}
+
+#contactImg img{
+
+    max-width: 500px;
+    max-height: 500px;
+    border-radius: 40px;
+}
+
+#portfolioTitle{
+    margin-top: 100px;
+}
+
+#portfolioTitle h2{
+
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #F75C4E;
+}
+
+#portfolioTitle h1{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.portfolioImg{
+    margin-top: 50px;
+}
+
+#portfolioImg1{
+    text-align: left;
+}
+
+#portfolioImg2{
+    text-align: center;
+}
+
+#portfolioImg3{
+    text-align: right;
+}
+
+#myServicesTitle{
+    text-align: center;
+    margin-top: 100px;
+}
+
+#myServicesTitle h2{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #F75C4E;
+}
+
+#myServicesTitle h1{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.servicesImg{
+    text-align: center;
+    margin-top: 50px;
+}
+
